@@ -1,9 +1,12 @@
-# qiniu-imgup
+# qiniu-imgup-mac
 
 ## 简介
-qiniu-imgup是一个Mac系统下的七牛云图片上传工具，目标是简化MarkDown写作中的贴图的繁琐步骤。
-qiniu-imgup可以快速将剪贴板中的图片上传至七牛云，并返回MarkDown格式的链接至剪贴板。
+qiniu-imgup-mac是一个Mac系统下的七牛云图片上传工具，目标是简化MarkDown写作中的贴图的繁琐步骤。
+qiniu-imgup-mac可以快速将剪贴板中的图片上传至七牛云，并返回MarkDown格式的链接至剪贴板。
 适用人群：使用七牛云做为图床的MarkDown编写者。
+平台：macOS  （macOS 10.12测试通过）
+
+另有Mac版本，请移步：[https://github.com/xiiiblue/qiniu-imgup-mac.git](https://github.com/xiiiblue/qiniu-imgup-linux.git)
 
 ## 使用方法介绍
 在编写MarkDown文档时，如果使用七牛云做图床，插入一张图片需要以下几个繁琐的步骤：
