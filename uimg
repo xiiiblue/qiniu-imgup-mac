@@ -1,0 +1,4 @@
+basedir=$(cd "$(dirname "$0")"; pwd)
+cd $basedir
+/Library/Frameworks/Python.framework/Versions/3.5/bin/python3 uimg.py
+exit 0
